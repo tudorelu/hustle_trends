@@ -1,4 +1,6 @@
-# Search Insights by Keyword
+## Google Trends Visualiser
+
+This script pulls search data of a keyword from google trends and visualizes it.
 
 ### Installation
 
@@ -19,4 +21,3 @@ python3 -m pip install pandas
 python3 trends.py 
 ```
 When prompted, input your search term. The script will generate inside the Insights folder a file called '\*\_insights', \* being your search term.
-
